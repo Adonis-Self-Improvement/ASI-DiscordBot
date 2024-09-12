@@ -10,7 +10,6 @@ Skill Tree is not affiliated with Discord.
 
 The purpose of the Bot is to allow users to track habits and improve their lives through a video-game style system.
 
-
 By using the Bot, you may need to interact with other Bot users. You are solely responsible for any such interaction and agree to do so in a manner that is legal, respectable, and consistent with these TOU. Skill Tree is not responsible for the conduct of any other user who may interact with you, regardless of whether or not it is done through the Skill Tree's own Discord server.
 
 ##License
@@ -31,19 +30,18 @@ Skill Tree reserves the right to modify these TOU at any time without prior noti
 
 ##Intellectual and Other Property
 
-Certain elements of Skill Tree, including but not limited to, graphics, color selections, organization and layout, are copyright protected under United Kingdom and international copyright laws and treaty provisions. Any Skill Tree Content protected by intellectual property laws may not be copied, republished, posted, modified, edited, transmitted, distributed, used to create derivative works of, or reverse engineered without permission, except that you may print out one copy of each Site page solely for noncommercial personal or educational use. No right, title, or interest in any Skill Tree Content is transferred to you as a result of you accessing, downloading, or printing such content from the Site or Bot. Any use of Skill Tree Content must display the appropriate copyright, trademark, and other proprietary notices.
+Any Skill Tree Content protected by intellectual property laws may not be copied, republished, posted, modified, edited, transmitted, distributed, used to create derivative works of, or reverse engineered without permission, except that you may print out one copy of each Site page solely for noncommercial personal or educational use. No right, title, or interest in any Skill Tree Content is transferred to you as a result of you accessing, downloading, or printing such content from the Site or Bot. Any use of Skill Tree Content must display the appropriate copyright, trademark, and other proprietary notices.
 
 You acknowledge that you have no right, title, or interest in or to Skill Tree and/or Skill Tree Content.
 
 Skill Tree and the Skill Tree logo are marks of Skill Tree. Other marks, names, and logos on the Site and Bot are the property of their respective owners.
-
 There may be other content located on the Site not owned by Skill Tree, and you should respect those property rights as well. All rights not expressly granted herein are reserved to Skill Tree.
 
 ##Links to Third Party Sites and other site Interactions
 
 The Site and Bot contains links to external sites not controlled by and/or affiliated with Skill Tree. If you use these links, you will leave the Site. Skill Tree provides these links to you only as a convenience. Skill Tree is not responsible for the content at the linked sites, including, without limitation, links displayed on such sites. You access any linked sites at your own risk.
 
-The display of the links are not meant to imply that Skill Tree guarantees, approves, recommends, or endorses the linked sites or any information, content and/or products/services available on those linked sites. The links are not meant to indicate any association with Skill Tree. Skill Tree is not responsible or liable for any linked site nor does PatchBot warrant that the linked sites or any goods, services, or information on the sites are current, accurate, or error-free. If you access the linked sites, you will be subject to the terms of use, privacy, and other policies applicable to those sites. You visit those sites at your own risk and should consult the sites’ policies.
+The display of the links are not meant to imply that Skill Tree guarantees, approves, recommends, or endorses the linked sites or any information, content and/or products/services available on those linked sites. The links are not meant to indicate any association with Skill Tree. Skill Tree is not responsible or liable for any linked site nor does Skill Tree warrant that the linked sites or any goods, services, or information on the sites are current, accurate, or error-free. If you access the linked sites, you will be subject to the terms of use, privacy, and other policies applicable to those sites. You visit those sites at your own risk and should consult the sites’ policies.
 
 Skill Tree may also allow interaction between the Site and other third party sites such as Instagram and other social media sites. This may include “Like” buttons or other interactions through third party buttons or plugins on the Site that when used, may allow you to share content from the Site or other content with other persons on or through the third party sites or elsewhere. Please consult the privacy policies of these third party sites before using them to make sure you are comfortable with the level of sharing that will take place once you interact with them. It may be very different than how your UGC and other content is shared on the Site. Skill Tree has no control over these third party sites and you use these interaction functions at your own risk. Skill Tree is in no way liable for any harm to you as a result of using one these interaction functions.
 
@@ -53,7 +51,7 @@ In connection with your access and/or use of the Site or any Site services, you 
 
 - Violate any federal, state, or local laws or regulations.
 - Update/Post anything that imposes an unreasonable or disproportionately large strain on Skill Tree’s network or computer infrastructure.
-- Engage in any behavior that is designed to hack into or gain unauthorized access to protected areas of the Site and/or Skill Trees’s computers, servers or networks, and/or any computers or systems used by other users of the Site.
+- Engage in any behavior that is designed to hack into or gain unauthorized access to protected areas of the Site and/or Skill Tree’s computers, servers or networks, and/or any computers or systems used by other users of the Site.
 - Upload/post anything that could destroy, damage, or impair any portion of the Bot or any computers, systems, hardware, or software used by Skill Tree or other users.
 - Make unauthorized attempts to modify any information stored by the Bot.
 - Make attempts to defeat or circumvent security features, or to utilize the Bot for any other purpose other than its intended purposes.
