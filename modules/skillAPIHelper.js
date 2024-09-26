@@ -190,16 +190,16 @@ exports.cancel = (userID, toCancel) => {
  * Sets the completed state of a user's skill task for a given date
  * @param userid - userID
  * @param task
- * @param day
+ * @param date - javascript date object
  * @param checked - T/F if checked/unchecked
  */
-exports.updateTask = async (userid, task, day, checked) => {
+exports.updateTask = async (userid, task, date, checked) => {
   const res = await axios
     .post(process.env.API_URL + "tasks/updateTask", {
       userid: userid,
       taskid: task.id,
       checked: checked,
-      day: day
+      date: date.getTime()
     }, {
       headers: {
         api_key: getAPIKey()

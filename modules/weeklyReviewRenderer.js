@@ -58,7 +58,7 @@ const getWeeklyReview = async (user, tasks) => {
  * @param canvas
  * @return {Promise<void>}
  */
-const drawHeaderFooter = async(canvas, user) => {
+const drawHeaderFooter = async (canvas, user) => {
   const context = canvas.getContext("2d");
   context.font = "30px \"Akira\"";
 

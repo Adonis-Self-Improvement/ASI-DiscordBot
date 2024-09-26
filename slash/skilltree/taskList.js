@@ -113,7 +113,7 @@ const createTaskList = async (client, interaction, tasks, userID, timezoneOffset
       //Toggle checked
       task.setChecked(!task.isChecked(date, timezoneOffset), date, timezoneOffset);
       //Get levelup and unlocks
-      const [levelUp, unlocked] = await updateTask(userID, task, day, task.isChecked(date, timezoneOffset));
+      const [levelUp, unlocked] = await updateTask(userID, task, date, task.isChecked(date, timezoneOffset));
 
       if (levelUp !== 0) {
         const user = await getUser(userID, interaction.user.username);

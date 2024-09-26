@@ -285,7 +285,7 @@ const createRow = (currentPage, length) => {
 }
 
 const createDropDownBox = actions => {
-  const actionList = actions.map(a => a.name).join("/");
+  const actionList = actions.map(a => a.name).join("/").slice(0,100);
   return new MessageActionRow().addComponents(
     new MessageSelectMenu().setCustomId("actions").setPlaceholder(actionList).addOptions(
       actions.map(

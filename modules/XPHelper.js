@@ -60,4 +60,14 @@ exports.calcXPFromLevel = level => Math.floor(-2550*(1 - Math.pow(1.02, level)))
  * @param {number} xp - total XP
  * @returns {number} - XP required to level up
  */
-exports.calcLevelFromXP = xp => Math.floor(Math.log(1/2550*xp + 1) / Math.log(1.02));
+exports.calcLevelFromXP = xp => {
+  let currentXP = 0;
+  let lastXP = 0;
+  let i = 0;
+  for (; currentXP < xp; i++) {
+    const levelXP = exports.calcXPFromLevel(i);
+    currentXP += levelXP - lastXP;
+    lastXP = levelXP;
+  }
+  return i - 2;
+}
